@@ -47,7 +47,7 @@
 {"id":"047","fr":"Un objet carré","idn":"Benda berbentuk persegi","pt":"Um objeto quadrado"},
 {"id":"048","fr":"Une brosse à dents colorée","idn":"Sikat gigi berwarna","pt":"Uma escova de dentes colorida"},
 {"id":"049","fr":"Un coin tranquille","idn":"Tempat yang tenang","pt":"Um cantinho tranquilo"},
-{"id":"050","fr":"Un objet caché","idn":"Benda tersembunyi","pt":"Um objeto escondido"}
+{"id":"050","fr":"Un objet caché","idn":"Benda tersembunyi","pt":"Um objeto escondido"},
 {"id":"051","fr":"Un réveil qui affiche une heure pile (comme 12:00)","idn":"Jam weker yang menunjukkan waktu tepat (seperti 12:00)","pt":"Um despertador que mostra uma hora certa (como 12:00)"},
 {"id":"052","fr":"Un objet quotidien original","idn":"Benda sehari-hari yang unik","pt":"Um objeto do dia a dia original"},
 {"id":"053","fr":"Une porte colorée","idn":"Pintu berwarna","pt":"Uma porta colorida"},
@@ -147,7 +147,7 @@
 {"id":"147","fr":"La lettre E","idn":"Huruf E","pt":"A letra E"},
 {"id":"148","fr":"Lampadaire","idn":"Lampu jalan","pt":"Candeeiro de rua"},
 {"id":"149","fr":"Le chiffre 30","idn":"Angka 30","pt":"O número 30"},
-{"id":"150","fr":"Le chiffre 7","idn":"Angka 7","pt":"O número 7"}]
+{"id":"150","fr":"Le chiffre 7","idn":"Angka 7","pt":"O número 7"},
 {"id":"151","fr":"Parapluie /ombrelle","idn":"Payung","pt":"Guarda-chuva / sombrinha"},
 {"id":"152","fr":"Un chat","idn":"Seekor kucing","pt":"Um gato"},
 {"id":"153","fr":"Un chien","idn":"Seekor anjing","pt":"Um cão"},
@@ -209,7 +209,7 @@
 {"id":"209","fr":"Chapeau ou casquette","idn":"Topi atau topi pet","pt":"Chapéu ou boné"},
 {"id":"210","fr":"Des pâtes","idn":"Pasta","pt":"Massa"},
 {"id":"211","fr":"Un ticket","idn":"Tiket","pt":"Um bilhete"},
-{"id":"212","fr":"Un ticket de caisse","idn":"Struk belanja","pt":"Talão de compras"}
+{"id":"212","fr":"Un ticket de caisse","idn":"Struk belanja","pt":"Talão de compras"},
 {"id":"213","fr":"Un trou","idn":"Lubang","pt":"Um buraco"},
 {"id":"214","fr":"Un ventilateur","idn":"Kipas angin","pt":"Uma ventoinha"},
 {"id":"215","fr":"Un objet dans un évier","idn":"Benda di wastafel","pt":"Um objeto num lava-loiça"},
@@ -247,9 +247,8 @@
 {"id":"247","fr":"Un œuf","idn":"Telur","pt":"Um ovo"},
 {"id":"248","fr":"Du lait","idn":"Susu","pt":"Leite"},
 {"id":"249","fr":"Un yaourt","idn":"Yogurt","pt":"Iogurte"},
-{"id":"250","fr":"Une caméra","idn":"Kamera","pt":"Uma câmara"}
-[
-{"id":"261","fr":"Un oiseau en zoom","idn":"Seekor burung di-zoom","pt":"Um pássaro em zoom"}
+{"id":"250","fr":"Une caméra","idn":"Kamera","pt":"Uma câmara"},
+{"id":"261","fr":"Un oiseau en zoom","idn":"Seekor burung di-zoom","pt":"Um pássaro em zoom"},
 {"id":"262","fr":"Un repas","idn":"Sebuah hidangan","pt":"Uma refeição"},
 {"id":"263","fr":"Un objet triangle","idn":"Benda berbentuk segitiga","pt":"Um objeto triangular"},
 {"id":"264","fr":"Un arbre pris de loin","idn":"Sebuah pohon yang difoto dari jauh","pt":"Uma árvore fotografada de longe"},
@@ -274,7 +273,7 @@
 {"id":"283","fr":"Une pièce de monnaie","idn":"Koin","pt":"Uma moeda"},
 {"id":"284","fr":"Un timbre","idn":"Perangko","pt":"Um selo"},
 {"id":"285","fr":"Un escalier","idn":"Tangga","pt":"Uma escada"},
-{"id":"286","fr":"Prends en photo le titre de ta musique du moment","idn":"Foto judul lagu yang sedang kamu dengarkan","pt":"Fotografa o título da tua música do momento"}
+{"id":"286","fr":"Prends en photo le titre de ta musique du moment","idn":"Foto judul lagu yang sedang kamu dengarkan","pt":"Fotografa o título da tua música do momento"},
 {"id":"288","fr":"Lacet de chaussure","idn":"Tali sepatu","pt":"Atacador"},
 {"id":"289","fr":"Un autocollant","idn":"Stiker","pt":"Um autocolante"},
 {"id":"290","fr":"Boucle d’oreille","idn":"Anting-anting","pt":"Brinco"},
@@ -297,21 +296,7 @@
 {"id":"307","fr":"Un Chien","idn":"Seekor anjing","pt":"Um cão"},
 {"id":"308","fr":"Ce que tu souhaites partager","idn":"Apa saja yang ingin kamu bagikan","pt":"O que quiseres partilhar"},
 {"id":"309","fr":"Un avion","idn":"Pesawat","pt":"Um avião"},
-{"id":"310","fr":"Un doigt sur un mur","idn":"Jari di atas dinding","pt":"Um dedo numa parede"}
-]
-[
-{"id":311,"fr":"Un frigo ouvert dans le noir","idn":"Kulkas terbuka di dalam gelap","pt":"Um frigorífico aberto no escuro"},
-{"id":312,"fr":"Un distributeur de billets de banque","idn":"Mesin ATM","pt":"Uma caixa multibanco"},
-{"id":313,"fr":"Une boîte à œufs","idn":"Kotak telur","pt":"Uma caixa de ovos"},
-{"id":314,"fr":"Une télé allumée","idn":"TV menyala","pt":"Uma televisão ligada"},
-{"id":315,"fr":"Une télé éteinte","idn":"TV mati","pt":"Uma televisão desligada"},
-{"id":316,"fr":"Une télécommande","idn":"Remote TV","pt":"Um comando de televisão"},
-{"id":317,"fr":"Une étiquette","idn":"Label","pt":"Uma etiqueta"},
-{"id":318,"fr":"Une étoile","idn":"Bintang","pt":"Uma estrela"},
-{"id":319,"fr":"Un œil","idn":"Mata","pt":"Um olho"},
-{"id":320,"fr":"Une route","idn":"Jalan","pt":"Uma estrada"}
-]
-[
+{"id":"310","fr":"Un doigt sur un mur","idn":"Jari di atas dinding","pt":"Um dedo numa parede"},
 {"id":311,"fr":"Un frigo ouvert dans le noir","idn":"Kulkas terbuka di dalam gelap","pt":"Um frigorífico aberto no escuro"},
 {"id":312,"fr":"Un distributeur de billets de banque","idn":"Mesin ATM","pt":"Uma caixa multibanco"},
 {"id":313,"fr":"Une boîte à œufs","idn":"Kotak telur","pt":"Uma caixa de ovos"},
@@ -407,16 +392,14 @@
 {"id":405,"fr":"Une cuillère remplie","idn":"Sendok penuh","pt":"Uma colher cheia"},
 {"id":406,"fr":"Un objet jeté dans les airs","idn":"Benda yang dilempar ke udara","pt":"Um objeto lançado ao ar"},
 {"id":407,"fr":"Une personne qui saute","idn":"Seseorang yang melompat","pt":"Uma pessoa a saltar"},
-{"id":410,"fr":"Un objet en métal","idn":"Benda dari logam","pt":"Um objeto de metal"}
-]
-[
+{"id":410,"fr":"Un objet en métal","idn":"Benda dari logam","pt":"Um objeto de metal"},
 {"id":411,"fr":"Un objet en bois","idn":"Benda dari kayu","pt":"Um objeto de madeira"},
 {"id":412,"fr":"Un objet en plastique","idn":"Benda dari plastik","pt":"Um objeto de plástico"},
 {"id":413,"fr":"Un objet en verre","idn":"Benda dari kaca","pt":"Um objeto de vidro"},
 {"id":414,"fr":"Un objet transparent","idn":"Benda transparan","pt":"Um objeto transparente"},
 {"id":415,"fr":"Un objet accroché","idn":"Benda yang digantung","pt":"Um objeto pendurado"},
 {"id":416,"fr":"Un objet cassé","idn":"Benda yang rusak","pt":"Um objeto partido"},
-{"id":"417","fr":"Un objet qui roule","idn":"Benda yang bisa menggelinding","pt":"Um objeto que rola"}
+{"id":417,"fr":"Un objet qui roule","idn":"Benda yang bisa menggelinding","pt":"Um objeto que rola"},
 {"id":418,"fr":"Un objet dans une boîte","idn":"Benda dalam kotak","pt":"Um objeto numa caixa"},
 {"id":419,"fr":"Un objet dans un sac","idn":"Benda dalam tas","pt":"Um objeto num saco"},
 {"id":420,"fr":"Un objet sur une étagère","idn":"Benda di atas rak","pt":"Um objeto numa prateleira"},
