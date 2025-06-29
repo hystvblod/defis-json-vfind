@@ -209,7 +209,7 @@
 {"id":"209","fr":"Chapeau ou casquette","idn":"Topi atau topi pet","pt":"Chapéu ou boné"},
 {"id":"210","fr":"Des pâtes","idn":"Pasta","pt":"Massa"},
 {"id":"211","fr":"Un ticket","idn":"Tiket","pt":"Um bilhete"},
-{"id":"212","fr":"Un ticket de caisse","idn":"Struk belanja","pt":"Talão de compra"},
+{"id":"212","fr":"Un ticket de caisse","idn":"Struk belanja","pt":"Talão de compras"}
 {"id":"213","fr":"Un trou","idn":"Lubang","pt":"Um buraco"},
 {"id":"214","fr":"Un ventilateur","idn":"Kipas angin","pt":"Uma ventoinha"},
 {"id":"215","fr":"Un objet dans un évier","idn":"Benda di wastafel","pt":"Um objeto num lava-loiça"},
@@ -249,7 +249,7 @@
 {"id":"249","fr":"Un yaourt","idn":"Yogurt","pt":"Iogurte"},
 {"id":"250","fr":"Une caméra","idn":"Kamera","pt":"Uma câmara"}
 [
-{"id":"261","fr":"Un oiseau en zoom","idn":"Seekor burung di-zoom","pt":"Um pássaro em zoom"},
+{"id":"261","fr":"Un oiseau en zoom","idn":"Seekor burung di-zoom","pt":"Um pássaro em zoom"}
 {"id":"262","fr":"Un repas","idn":"Sebuah hidangan","pt":"Uma refeição"},
 {"id":"263","fr":"Un objet triangle","idn":"Benda berbentuk segitiga","pt":"Um objeto triangular"},
 {"id":"264","fr":"Un arbre pris de loin","idn":"Sebuah pohon yang difoto dari jauh","pt":"Uma árvore fotografada de longe"},
@@ -274,8 +274,7 @@
 {"id":"283","fr":"Une pièce de monnaie","idn":"Koin","pt":"Uma moeda"},
 {"id":"284","fr":"Un timbre","idn":"Perangko","pt":"Um selo"},
 {"id":"285","fr":"Un escalier","idn":"Tangga","pt":"Uma escada"},
-{"id":"286","fr":"Prends en photo le titre de ta musique du moment","idn":"Foto judul lagu favoritmu saat ini","pt":"Fotografa o título da tua música do momento"},
-{"id":"287","fr":"Une paire de lunettes","idn":"Sepasang kacamata","pt":"Um par de óculos"},
+{"id":"286","fr":"Prends en photo le titre de ta musique du moment","idn":"Foto judul lagu yang sedang kamu dengarkan","pt":"Fotografa o título da tua música do momento"}
 {"id":"288","fr":"Lacet de chaussure","idn":"Tali sepatu","pt":"Atacador"},
 {"id":"289","fr":"Un autocollant","idn":"Stiker","pt":"Um autocolante"},
 {"id":"290","fr":"Boucle d’oreille","idn":"Anting-anting","pt":"Brinco"},
@@ -417,7 +416,7 @@
 {"id":414,"fr":"Un objet transparent","idn":"Benda transparan","pt":"Um objeto transparente"},
 {"id":415,"fr":"Un objet accroché","idn":"Benda yang digantung","pt":"Um objeto pendurado"},
 {"id":416,"fr":"Un objet cassé","idn":"Benda yang rusak","pt":"Um objeto partido"},
-{"id":417,"fr":"Un objet qui roule","idn":"Benda yang bisa bergulir","pt":"Um objeto que rola"},
+{"id":"417","fr":"Un objet qui roule","idn":"Benda yang bisa menggelinding","pt":"Um objeto que rola"}
 {"id":418,"fr":"Un objet dans une boîte","idn":"Benda dalam kotak","pt":"Um objeto numa caixa"},
 {"id":419,"fr":"Un objet dans un sac","idn":"Benda dalam tas","pt":"Um objeto num saco"},
 {"id":420,"fr":"Un objet sur une étagère","idn":"Benda di atas rak","pt":"Um objeto numa prateleira"},
